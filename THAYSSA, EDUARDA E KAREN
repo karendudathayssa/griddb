@@ -1,3 +1,7 @@
- alert ( "Olá, mundo!" ) ;
+<HTML>
+<BODY>
+alert ( "Olá, mundo!" ) ;
 documento . write ( "Olá, mundo!" ) ;
 console . log ( "Olá, mundo!" ) ;
+</BODY>
+</HTML>
